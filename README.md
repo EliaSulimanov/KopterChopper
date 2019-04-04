@@ -5,4 +5,4 @@
 2014 - High school graduation CS project
 
 ## License
-The unlicense
+GNU General Public License v3.0
